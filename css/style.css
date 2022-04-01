@@ -1223,8 +1223,8 @@ footer .footer-container{
 
 }
 
-/*=======Media query max-width 730px=======*/
-@media screen and (max-width: 730px){
+/*=======Media query max-width 540px=======*/
+@media screen and (max-width: 540px){
   /*=======Common styles for all sections=======*/
 body{
   margin: 5rem 0 0 0;
